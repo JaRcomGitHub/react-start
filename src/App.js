@@ -1,17 +1,15 @@
-import logo from './kapusta.svg';
-import './App.css';
+import logo from "./logo_def.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>BACK-END for project-team-5</p>
+        <p>FRONT-END for JaRcom</p>
       </header>
     </div>
   );
 }
 
 export default App;
-
-
